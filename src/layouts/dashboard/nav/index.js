@@ -89,7 +89,7 @@ export default function Nav({ openNav, onCloseNav }) {
 
           <Box sx={{ textAlign: 'center' }}>
             <Typography gutterBottom variant="h6">
-              Estas Intersado en el proyecto?
+              Estas Interesado en el proyecto?
             </Typography>
 
             <Typography variant="body2" sx={{ color: 'text.secondary' }}>

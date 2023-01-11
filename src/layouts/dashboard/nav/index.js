@@ -97,7 +97,7 @@ export default function Nav({ openNav, onCloseNav }) {
             </Typography>
           </Box>
 
-          <Button href="https://material-ui.com/store/items/minimal-dashboard/" target="_blank" variant="contained">
+          <Button href="https://github.com/axha0188/RESERVATION-LINKS" target="_blank" variant="contained">
             Ir a GitHub
           </Button>
         </Stack>
